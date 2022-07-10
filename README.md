@@ -1,7 +1,11 @@
 # hurley
 If you'd like to target an older machine, your best bet would be
-#### [Hurley for .NET 4](https://github.com/videotoaster/hurley-dotnet4)
+### [Hurley for .NET 4](https://github.com/videotoaster/hurley-dotnet4)
 as you may be able to compile this for .NET 3? Haven't tested it myself.
+
+### Precompiled?
+[Hurley for .NET Core 3.1](https://github.com/videotoaster/hurley/releases)
+[Hurley for .NET Framework 4](https://github.com/videotoaster/hurley-dotnet4/releases)
 
 Hurley plays music. I figured that's boring, so now it plays chiptune music out of the PC speaker. I thought
 that was boring too, so I built Hurley up to both interpret, play, write, and create chiptune music written
