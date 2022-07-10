@@ -4,7 +4,7 @@ If you'd like to target an older machine, your best bet would be
 as you may be able to compile this for .NET 3? Haven't tested it myself.
 
 ### Precompiled?
-[Hurley for .NET Core 3.1](https://github.com/videotoaster/hurley/releases)
+[Hurley for .NET Core 3.1](https://github.com/videotoaster/hurley/releases)<br>
 [Hurley for .NET Framework 4](https://github.com/videotoaster/hurley-dotnet4/releases)
 
 Hurley plays music. I figured that's boring, so now it plays chiptune music out of the PC speaker. I thought
